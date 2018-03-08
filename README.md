@@ -22,4 +22,4 @@ The goal is to make this a multiplayer game and make it easy for users to add cu
 
 GamePlay for now:  
 
-<a href="url"><img src="https://github.com/marksim5/sorcery/blob/master/Images/Example.png" align="left" height="300" width="500" ></a>
+<a href="url"><img src="https://github.com/marksim5/sorcery/blob/master/Images/Example.png?raw=true" align="left" height="300" width="500" ></a>
