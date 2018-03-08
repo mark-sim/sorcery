@@ -9,8 +9,14 @@ Then run ./sorcery.exe [fileName1] [fileName2] [-testing] [-graphics]
 
 ```
 fileName1 : deck list of player 1, if not specified, default will be used and shuffled.  
+```
+```
 fileName2 : deck list of player 2, if not specified, default will be used and shuffled.  
+```
+```
 -testing : testing is for debugging purposes. Deck is not shuffled and you have infinity mana.  
+```
+```
 -graphics : for non-terminal graphics output.  
 ```
 
